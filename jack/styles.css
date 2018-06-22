@@ -1,0 +1,44 @@
+body {
+	background-color: #fff;
+}
+
+body, input, select, textarea {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+/** Link Styles **/
+a {
+	color: #e0555a;
+}
+
+a:hover {
+	color: #e0555a !important;
+}
+
+/** Text Styles **/
+
+p {
+#658587
+}
+
+h1 {
+	color: white;
+	background-color:lightblue;
+	font-size:100px;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+.wrapper.style1 {background-color:#75b3f1}
+
+/** My Invention Photo **/
+#banner1
+{
+    background-image: url("images/prototype.jpg");
+		background-size:cover;
+}

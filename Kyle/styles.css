@@ -1,0 +1,55 @@
+body {
+	background-color: black;
+}
+
+body, input, select, textarea {
+	color: #646464;
+	font-family: 'Carter One', cursive;
+	font-size: 25px;
+	line-height: 1.75em;
+}
+
+a {
+	color: #e0555a;
+	text-decoration: none;
+	border-bottom: dotted 1px;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #e0555a !important;
+	border-bottom-color: transparent;
+}
+p {
+	margin: 0 0 2em 0;
+	font-family: 'Carter One', cursive;
+}
+h1, h2, h3 {
+	color: blue
+	font-weight: 700;
+	line-height: 1em;
+	margin: 0 0 1em 0;
+	letter-spacing: -0.01em;
+}
+h2 {
+	font-size: 1.75em;
+	line-height: 1.5em;
+	color: blue;
+	font-family: 'Carter One', cursive;
+}
+h3 {
+	color: blue;
+	font-family: 'Carter One', cursive;
+}
+#banner1  
+{       
+    background-image: url("images/finished.jpg"); 
+    background-size: cover;;        
+    background-repeat: no-repeat;        
+    position: relative;        
+    width: 100%;            
+    height: 850px;       
+    margin-left: auto;      
+    margin-right: auto;
+    margin-bottom: 30px;       
+}  

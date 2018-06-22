@@ -1,0 +1,52 @@
+body {
+	background-color: red;
+}
+
+body, input, select, textarea {
+	font-family: "Impact", Helvetica, sans-serif;
+}
+
+/** Link Styles **/
+a {
+	color: #e0555a;
+}
+
+a:hover {
+	color: #e0555a !important;
+}
+
+/** Text Styles **/
+
+p {
+
+color:blue;
+
+}
+
+h1 {
+	color:blue;
+}
+
+h2 {
+
+	color:blue;
+
+}
+
+h3 {
+
+color:blue;
+
+}
+
+
+.wrapper.style1 {
+	background-color:red;
+}
+
+/** My Invention Photo **/
+#banner1
+{
+    background-image: url("images/prototype.jpg");
+		background-size:cover;
+}

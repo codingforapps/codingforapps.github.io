@@ -1,0 +1,111 @@
+body, #main {
+	background-color: #306e89;
+}
+
+body, input, select, textarea {
+	color: #646464;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-size: 25px;
+	line-height: 1.75em;
+}
+
+a {
+	color: pink;
+	text-decoration: overline;
+	border-bottom-style: solid;
+	font-family:  "Courier New";
+}
+
+a:hover {
+	text-decoration: underline;
+	color: blue !important;
+	border: outset 10px #2460c1;
+	font-family: "Encode Sans Condensed";
+}
+header p {
+	margin: 0 0 2em 0;
+	color: purple;
+}
+p{
+
+	color: #242d8c;
+	font-family: "Ubuntu";
+}
+h1, h2, h3 {
+	color: blue;
+	font-weight: 700;
+	line-height: 1em;
+	margin: 0 0 1em 0;
+	letter-spacing: -0.01em;
+	border-bottom: 20px dashed blue;
+	border-bottom-width: 10px;
+}
+h2 {
+	font-size: 1.75em;
+	line-height: 1.5em;
+}
+#banner1  
+{       
+    background-image: url("images/Plastic-X-Ray.jpg"); 
+    border: solid 10px gold; 
+    padding-bottom: 10px;      
+    background-repeat: no-repeat;        
+    position: relative;                    
+    height: 600px;       
+    margin-left: auto;      
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 50%; 
+    position: center;
+
+
+} 
+#banner1:hover{
+
+	background-color: pink;
+}
+.ocean{
+
+	height: 400px;
+	width: auto;
+	position: relative;
+	margin-top: -70px;
+	right: -50px;
+	
+
+
+} 
+.ocean:hover{
+
+	background-color: pink;
+	border: groove 10px lightblue;
+}
+
+
+ul{
+  clear: both;
+  width: 50%;
+  	float: left;
+  }
+  li {
+
+  	color: coral;
+  	font-family: "Encode Sans Condensed";
+  }
+h3{
+  		clear: both;}
+
+ #footer{
+
+ 	color: purple;
+ 	font-size: 25px;
+ 	border: inset purple 10px;
+ }
+
+ #footer:hover{
+
+ 	background-image: url("https://www.oceanprosperityroadmap.org/wp-content/uploads/2015/05/ocean-final.jpg");
+ }
+.marker{
+	color: coral;
+ }

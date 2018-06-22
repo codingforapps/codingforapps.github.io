@@ -1,0 +1,52 @@
+body {
+	background-color: #03F7EB;
+}
+
+body, input, select, textarea {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+/** Link Styles **/
+a {
+	color: #20A4F3;
+}
+
+a:hover {
+	color: #20A4F3 !important;
+}
+
+/** Text Styles **/
+
+p {
+
+}
+
+h1 {
+	color: #20A4F3;
+	font-size:110px;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+.wrapper.style1 {
+	background-color:#03F7EB;
+}
+
+#main .container {
+	background-color:#20A4F3;
+}
+
+
+/** My Invention Photo **/
+#banner1
+{
+    background-image: url("images/prototype.jpg");
+ Height:600px;
+		background-size:cover;
+}
