@@ -1,0 +1,86 @@
+#main {
+	background-image: url("images/latest.gif");
+}
+
+body, input, select, textarea {
+	color: #646464;
+	font-family: 'Russo One', sans-serif;
+	font-size: 25px;
+	line-height: 1.75em;
+	background-color:#f2f2f2;
+}
+
+a {
+	color: #e0555a;
+	text-decoration: none;
+	border-bottom: dotted 1px;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #e0555a !important;
+	border-bottom-color: transparent;
+}
+p {
+	margin: 0 0 2em 0;
+}
+h1,h2, h3 {
+	color: skyblue;
+	font-weight: 700;
+	line-height: 1em;
+	margin: 0 0 1em 0;
+	letter-spacing: -0.01em;
+}
+h2 {
+	font-size: 1.75em;
+	line-height: 1.5em;
+	color: skyblue;
+}
+#banner1:hover{
+	border:5px ridge black;
+}
+#banner1 {      
+    background-image: url("images/jump.jpg");        
+    background-repeat: no-repeat;        
+    position: relative;        
+    width: 72%;            
+    height: 500px;       
+    margin-left: auto;      
+    margin-right: auto;
+    margin-bottom: 30px;
+    border: 5px solid black;
+}
+#map1:hover{
+border:5px ridge black;
+}
+ #map1 {
+background-image: url("images/map.jpg");
+background-size:538px;        
+    background-repeat: no-repeat;        
+    position: relative;        
+    width: 52%;            
+    height: 548px;       
+    margin-left: auto;      
+    margin-right: auto;
+    margin-bottom: 30px;
+    border:5px solid black;
+    float: right;
+ }
+#desc {
+	margin-left:150px;
+}
+#mapdes {
+	margin-left:505px;
+	margin-top: -130px;
+}
+#caleb {
+	Color:#949494;
+	font-family: 'Libre Barcode 39 Extended', cursive;
+}
+#caleb:hover {
+	color:skyblue;
+	font-family: 'Russo One', cursive;
+}
+.game {
+	color:skyblue;
+}
