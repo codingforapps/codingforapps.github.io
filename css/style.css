@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("http://fonts.googleapis.com/css?family=Lato:300,700");
 
 /*
 	Drift by Pixelarity
@@ -12,7 +12,21 @@
 	body {
 		background: #fff;
 	}
-
+#header > a{
+	background-color: #fff;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    font-family: Lato !important;
+    font-size: .8em;
+    color: black;
+    cursor: default;
+    height: 3em;
+    left: 0;
+    line-height: 3em;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+}
 		body.is-loading * {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -28,7 +42,7 @@
 
 	body, input, select, textarea {
 		color: #646464;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Lato", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		line-height: 1.75em;
