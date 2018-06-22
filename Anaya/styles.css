@@ -1,0 +1,53 @@
+body,#main {
+	background-image:url(https://media3.giphy.com/media/cyhqbdmqGs5ig/giphy.gif);
+	
+}
+
+body, input, select, textarea, p {
+	color: #blue;
+	font-family: 'Jua', sans-serif !important;
+	font-size: 45px;
+	line-height: 1.75em;
+}
+ 
+h1, h2, h3, h4, h5,#main {
+	color: rgb(0,149,182) !important;
+	font-weight: 700;
+	line-height: 1em;
+	margin: 0 0 1em 0;
+	letter-spacing: -0.01em;
+}
+h2 {
+	font-size: 1.75em;
+	line-height: 1.5em;
+}
+#banner1  
+{       
+    background-image: url("images/nerfturret.jpg");        
+    background-repeat: no-repeat;        
+   background-size: cover;
+    position: relative;        
+    width: 100%;            
+    height: 600px;       
+    margin-left: auto;      
+    margin-right: auto;
+    margin-bottom: 30px;
+     background-position: center;       
+}  
+#banner2
+
+{       
+    background-image: url("images/nerf.jpg");        
+    background-repeat: no-repeat;        
+   background-size: contain;
+    position: relative;        
+    min-width: 40%; 
+    max-width: 60%;              
+    height: 300px;       
+    margin-left: auto;      
+
+    margin-right: auto;
+    margin-bottom: 30px;       
+}                                  
+.name{font-size:25px;
+      color:rgb(8,146,208);   }

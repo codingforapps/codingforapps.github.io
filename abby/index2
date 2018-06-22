@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Coding for Apps - [student name]</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	</head>
+	<body>
+		<!-- Main -->
+			<section id="main" class="wrapper style1">
+				<header class="major">
+					<h1>Best friends</h1>
+					<h2>abby hirschhorn</h2>
+				</header>
+				<div class="container">
+
+					<!-- Content -->
+						<section id="content">
+							<div id="banner1"></div>
+							<h3>The problem that my invention solves is..:</h3>
+							<p>lonelyness. When you go on a trip and you don't have any friends.Just turn on the app and poof you have a friend.And it doesn't need Wifi!</p>
+
+
+              <h3>Most Important Feature:  blutooth mic
+							 </h3>
+							<ul>
+								<li>custimizible</li>
+								<li>very understanding</li>
+
+								<li>remembers your name</li>
+								<li>works with computers,phones,tablets,ipads</li>
+							</ul>
+
+
+							<h3>anybody who gets lonely </h3>
+							<p></p>
+
+
+							<h3>It will Cost: $18</h3>
+
+							<h3>About the Inventor.</h3>
+							<img src="" width="200"/>
+							<p>abby hirschhorn was born in israel moved to U.S.A. when she was 2 and created best friends on june 19,2018</p>
+
+						</section>
+
+				</div>
+			</section>
+			<footer id="footer">
+				<span>
+			Site designed and built by abby
+				</span>
+				<script src="../js/jquery.min.js"></script>
+				<script src="../js/jquery.dropotron.min.js"></script>
+				<script src="../js/jquery.scrollgress.min.js"></script>
+				<script src="../js/jquery.scrolly.min.js"></script>
+				<script src="../js/jquery.slidertron.min.js"></script>
+				<script src="../js/skel.min.js"></script>
+				<script src="../js/skel-layers.min.js"></script>
+				<script src="../js/init.js"></script>
+				<link rel="stylesheet" href="default.css" />
+				<link rel="stylesheet" href="../css/skel.css" />
+				<link rel="stylesheet" href="../css/style.css" />
+				<link rel="stylesheet" href="../css/style-xlarge.css" />
+				<link rel="stylesheet" href="styles.css" />
+
+			</footer>
+
+	</body>
+</html>

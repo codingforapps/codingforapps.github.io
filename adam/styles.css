@@ -1,0 +1,65 @@
+body, #main {
+	background-image:url("images/SnowyNight.gif");
+}
+
+body, input, select, textarea, h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 25px;
+	line-height: 1.75em;
+}
+
+a {
+	color: #e0555a;
+	text-decoration: none;
+	border-bottom: dotted 1px;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #e0555a !important;
+	border-bottom-color: transparent;
+}
+p {
+	margin: 0 0 2em 0;
+	color: black; 
+}
+h2::selection, h3::selection, p::selection, li::selection {
+	background-color: gray;
+	color:yellow;
+}
+h1, h2, h3, li {
+	color: #cecece;
+	font-weight: 700;
+	line-height: 1em;
+	margin: 0 0 1em 0;
+	letter-spacing: -0.01em;
+
+}
+ul{
+	max-width:60%;
+	margin: 0 auto;
+}
+
+
+
+h2 {
+	font-size: 1.75em;
+	line-height: 1.5em;
+}
+.container{
+	margin-top: 50px;
+	background-color: #fff !important;
+}
+
+#banner1  
+{       
+    background-image: url("images/App-Logo.jpg");        
+    background-repeat: no-repeat;
+    background-size: 100% 100%;        
+    position: relative;        
+    width: 100%;            
+    height: 720px;       
+    margin-left: auto;      
+    margin-right: auto;
+    margin-bottom: 30px;       
+}  

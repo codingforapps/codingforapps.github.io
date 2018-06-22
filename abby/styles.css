@@ -1,0 +1,51 @@
+body {
+	background-color:pink;
+}
+
+body, input, select, textarea {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+/** Link Styles **/
+a {
+	color: pink;
+}
+
+a:hover {
+	color:blue;
+}
+
+/** Text Styles **/
+
+p {color:magenta;
+
+}
+
+h1 {
+	color: darkblue;
+}
+
+h2 {color:paleturquoise;
+
+}
+
+h3 { color: darkblue
+
+}
+p, ul li {color: magenta;
+}
+
+.wrapper.style1 {
+	background-color:pink;
+
+}
+
+#footer span {
+	color:paleturquoise;
+}
+/** My Invention Photo **/
+#banner1
+{
+    background-image: url("images/prototype.jpg");
+		background-size:cover;
+}
